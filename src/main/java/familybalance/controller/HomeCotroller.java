@@ -10,4 +10,3 @@ public class HomeCotroller {
         return "index";
     }
 }
-git commit
